@@ -19,14 +19,15 @@ const RESOURCES = {
 "command.md": "a53ec7b1d36ffb024c6a433b8d96ed2b",
 "favicon.png": "a267d1b8bd0304ed0e647bbb8c5e926b",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"icons/favicon.ico": "ad66d9124f6326417bc605dff385dfa7",
 "icons/Icon-192.png": "fb313ca744b8c200c434f624dc35355b",
 "icons/Icon-512.png": "c07e52d48393b90d22de15824cafac58",
 "icons/Icon-maskable-192.png": "fb313ca744b8c200c434f624dc35355b",
 "icons/Icon-maskable-512.png": "c07e52d48393b90d22de15824cafac58",
-"index.html": "970e76a42dab55191da57e8e848f6697",
-"/": "970e76a42dab55191da57e8e848f6697",
-"main.dart.js": "0d2392f23b351a7c8d01a4e6b0ba6e3b",
-"manifest.json": "bcc861de6e993377dc3d3b35289435bc",
+"index.html": "4823aad09d182f55f5a4196cb3cca8dd",
+"/": "4823aad09d182f55f5a4196cb3cca8dd",
+"main.dart.js": "69c085ba2e75a2d796bb44750cd4ca2d",
+"manifest.json": "ef21d7e41e96929f8806101d582b2a82",
 "version.json": "f0d9344a999d7c9c36957e5b323d000a"
 };
 
